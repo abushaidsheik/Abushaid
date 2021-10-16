@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+#professional{
+    color: firebrick;
+    text-align: left;
+    font-size: 20px;
+    
+}
+.name-color{
+    color: deepskyblue;
+}
+.half-one{
+    width: 35%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+.half-one img{
+    width: 100%;
+
+}
