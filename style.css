@@ -32,6 +32,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 21px;
 }
 p{
     text-align: justify;
@@ -44,6 +45,21 @@ p{
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 10px;
-    color: white;
-   
+    color: white;  
+}
+.dream-big{
+    font-size: 50px;
+    color: rgb(252, 193, 0);
+}
+.new-link{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, pink);
+    font-size: 20px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.image-newtop{
+    background-image: url(background/download.jpg);
 }
