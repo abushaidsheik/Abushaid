@@ -17,10 +17,10 @@ h1{
     color: deepskyblue;
 }
 .half-one{
-    width: 35%;
+    width: 30%;
     float: left;
     margin: 4%;
-    padding: 2%;
+    padding: 50px;
 }
 .half-one img{
     width: 100%;
@@ -32,7 +32,7 @@ h1{
 }
 section{
     height: 500px;
-    padding-bottom: 21px;
+    
 }
 p{
     text-align: justify;
@@ -62,4 +62,22 @@ p{
 }
 .image-newtop{
     background-image: url(background/download.jpg);
+
+}
+.third-section{
+    padding-top: 500px;
+}
+.my-experience{
+    text-align: center;
+    text-decoration: underline;
+    color: teal;
+}
+.same-web{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 50px;
+    height: 75%;
+}
+#baby-dev{
+    border-left: 8px solid;
+    border-image: linear-gradient ();
 }
