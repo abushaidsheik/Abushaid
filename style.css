@@ -1,6 +1,9 @@
 body{
+    margin: 0%;
     font-family: 'Open Sans', sans-serif;
+   
 }
+
 h1{
     font-size: 40px;
 }
@@ -22,4 +25,25 @@ h1{
 .half-one img{
     width: 100%;
 
+}
+.image-top{
+    background-image: url(background/1285952.jpg);
+
+}
+section{
+    height: 500px;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+   
 }
